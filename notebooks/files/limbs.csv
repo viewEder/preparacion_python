@@ -1,0 +1,13 @@
+thing,legs,arms
+human,2,2
+insect,6,0
+squid,0,10
+octopus,0,8
+fish,0,0
+centipede,100,0 
+table,4,0
+armchair,4,2
+phonograph,0,1 
+tripod,3,0
+Peg Leg Pete,1,2 
+space alien,NULL,NULL
