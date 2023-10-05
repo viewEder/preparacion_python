@@ -1,0 +1,28 @@
+[
+    {
+        "motivo": "P",
+        "descripcion": "Pregunta",
+        "fecha_hora_recepcion": "2023-10-04",
+        "usuario": {
+            "nombre_completo": "Jason Cacante",
+            "fecha_nacimiento": "1900-10-01",
+            "pais": "colombia",
+            "ciudad": "medellin",
+            "email": "email@email.com",
+            "telefono": "39939993"
+        }
+    },
+    {
+        "motivo": "P",
+        "descripcion": "pregunta",
+        "fecha_hora_recepcion": "2023-10-04",
+        "usuario": {
+            "nombre_completo": "Pedro Perez",
+            "fecha_nacimiento": "1900-12-10",
+            "pais": "China",
+            "ciudad": "Wansu",
+            "email": "email@email.com",
+            "telefono": "39992993"
+        }
+    }
+]
