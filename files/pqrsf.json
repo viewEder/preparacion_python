@@ -24,5 +24,31 @@
             "email": "email@email.com",
             "telefono": "39992993"
         }
+    },
+    {
+        "motivo": "Q",
+        "descripcion": "question",
+        "fecha_hora_recepcion": "2023-10-04",
+        "usuario": {
+            "nombre_completo": "Sara Osorio",
+            "fecha_nacimiento": "1999-09-09",
+            "pais": "Colombia",
+            "ciudad": "Medell\u00edn",
+            "email": "sara@email.com",
+            "telefono": "39919993"
+        }
+    },
+    {
+        "motivo": "S",
+        "descripcion": "Solicitud",
+        "fecha_hora_recepcion": "2023-10-04",
+        "usuario": {
+            "nombre_completo": "Jason Perez",
+            "fecha_nacimiento": "1999-09-02",
+            "pais": "colombia",
+            "ciudad": "medellin",
+            "email": "email@email.com",
+            "telefono": "2939994"
+        }
     }
 ]

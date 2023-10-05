@@ -18,3 +18,12 @@ class PQRSF:
             "fecha_hora_recepcion": self.fecha_hora_recepcion,
             "usuario": self.usuario.a_dict(),
         }
+
+    def __str__(self) -> str:
+        return f"""
+        --- PQRSF ---
+        Motivo: {self.motivo}
+        Descripción: {self.descripcion}
+        Fecha y hora de recepción: {self.fecha_hora_recepcion}
+        --- Usuario --- {self.usuario}
+        """

@@ -116,3 +116,4 @@ def mostrar_pqrsf():
     pqrsf_list = cargar_pqrsf_desde_archivo()
     for pqrsf in pqrsf_list:
         print(pqrsf)
+        print("-" * 50)

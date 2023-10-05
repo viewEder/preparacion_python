@@ -24,3 +24,13 @@ class Usuario:
             "email": self.email,
             "telefono": self.telefono,
         }
+
+    def __str__(self) -> str:
+        return f"""
+        Nombre completo: {self.nombre_completo}
+        Fecha de nacimiento: {self.fecha_nacimiento}
+        País: {self.pais}
+        Ciudad: {self.ciudad}
+        Email: {self.email}
+        Teléfono: {self.telefono}
+        """
